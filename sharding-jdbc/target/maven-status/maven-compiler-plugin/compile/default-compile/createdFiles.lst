@@ -1,0 +1,10 @@
+com\xuexiangban\shardingjdbc\shardingjdbc\entity\Order.class
+com\xuexiangban\shardingjdbc\shardingjdbc\mapper\UserMapper.class
+com\xuexiangban\shardingjdbc\shardingjdbc\controller\UserController.class
+com\xuexiangban\shardingjdbc\shardingjdbc\entity\UserOrder.class
+com\xuexiangban\shardingjdbc\shardingjdbc\mapper\UserOrderMapper.class
+com\xuexiangban\shardingjdbc\shardingjdbc\config\BirthdayAlgorithm.class
+com\xuexiangban\shardingjdbc\shardingjdbc\service\UserOrderService.class
+com\xuexiangban\shardingjdbc\shardingjdbc\ShardingJdbcApplication.class
+com\xuexiangban\shardingjdbc\shardingjdbc\entity\User.class
+com\xuexiangban\shardingjdbc\shardingjdbc\config\YearMonthShardingAlgorithm.class

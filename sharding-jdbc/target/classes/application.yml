@@ -1,0 +1,14 @@
+server:
+  port: 8085
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  profiles:
+    active: yearmonth
+
+
+# 整合mntityybatis的配置XXXXX
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.xuexiangban.shardingjdbc.shardingjdbc.entity
